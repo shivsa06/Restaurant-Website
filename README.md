@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Restaurant-Website
+Developed the frontend of a restaurant website using ReactJS, ensuring a responsive and user-friendly interface. Implemented UI components for displaying menus, restaurant information, and promotional content. Implemented Material UI's pre-built components and customized styles to match the restaurant's branding and design guidelines.
+>>>>>>> b5b2403b228f3dcc92234b71514c2e5ad74123ef
